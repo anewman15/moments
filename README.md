@@ -1,24 +1,34 @@
-# README
+# Moments - store your photos
+JSON API to store images for app development
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+* Ruby v 2.7.1
+* Rails v 6.0.3.3
+* Simple Form
+* PostgreSQL
+## Author
+👤 **Abdullah Numan**
 
-* Ruby version
+- Github:   https://github.com/anewman15
+- Twitter:  https://twitter.com/aanuman15
+- Linkedin: https://www.linkedin.com/in/aanuman15/
+- Email:    anewman15@hotmail.com
 
-* System dependencies
+## 🤝 Contributing
 
-* Configuration
+Contributions, issues and feature requests are welcome!
 
-* Database creation
+Feel free to check the [issues page](https://github.com/anewman15/activize/issues/).
 
-* Database initialization
+## Show your support
 
-* How to run the test suite
+Give a ⭐️ if you like this project!
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Acknowledgments
 
-* ...
+- https://www.microverse.org/
+- https://www.theodinproject.com/
+- https://guides.rubyonrails.org/
+- https://www.stackoverflow.com/
