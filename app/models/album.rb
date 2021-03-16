@@ -3,5 +3,5 @@ class Album < ApplicationRecord
   validates :user_id, presence: true
 
   belongs_to :user
-  has_man_attached :photos
+  has_many_attached :photos
 end
